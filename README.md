@@ -1,6 +1,10 @@
 # Spotify Song Ranking and Audio Features Analysis
 Worldwide Spotify Song Ranking Analysis and Spotify Songs Audio Features Analysis
 
+# Potential Uses for
+
+[Potential Stakeholders: Labels, Artists, Users](https://github.com/AyushGupta51379/SpotifySongRanking/blob/master/Potential%20Benefits.png?raw=true)
+
 # Data sources: Kaggle
 
 ![Data](https://github.com/AyushGupta51379/SpotifySongRanking/blob/master/Data.png?raw=true)
