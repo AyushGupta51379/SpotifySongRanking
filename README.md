@@ -2,6 +2,9 @@
 Worldwide Spotify Song Ranking Analysis and Spotify Songs Audio Features Analysis
 
 # Data sources: Kaggle
+
+![Data](https://github.com/AyushGupta51379/SpotifySongRanking/blob/master/Data.png?raw=true)
+
 Data set of Worldwide Song Ranking (Spotify's Worldwide Daily Song Ranking): https://www.kaggle.com/edumucelli/spotifys-worldwide-daily-song-ranking 
 </br>(Description: The 200 daily most streamed songs in 53 countries)
 
@@ -10,6 +13,7 @@ Data set of Audio features (Spotify Song Attributes): https://www.kaggle.com/geo
 
 # Presentation
 Analysis of Worldwide Spotify Song Rankings and Characteristics: https://drive.google.com/open?id=1jgYFXfKBJbwA1xJAVdp3g4dYaN_9Eu3q
+![Project start page](https://github.com/AyushGupta51379/SpotifySongRanking/blob/master/Project%20logo.png?raw=true)
 
 # Group repository
 
