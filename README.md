@@ -13,4 +13,5 @@ Analysis of Worldwide Spotify Song Rankings and Characteristics: https://drive.g
 
 # Group repository
 
-Team “To be named”: GUPTA Ayush, SENTHIL Guru Sarjith, SUN David, GUPTA Abhishek [Visit here](https://github.com/gurus848/COMP4462_Project)
+Team “To be named”: GUPTA Ayush, SENTHIL Guru Sarjith, SUN David, GUPTA Abhishek 
+</br>[Visit here](https://github.com/gurus848/COMP4462_Project)
