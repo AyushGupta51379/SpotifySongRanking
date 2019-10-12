@@ -31,4 +31,6 @@ Team “To be named”: GUPTA Ayush, SENTHIL Guru Sarjith, SUN David, GUPTA Abhi
 
 GUPTA Ayush, SENTHIL Guru Sarjith, SUN David, GUPTA Abhishek 
 
+# Statement
+Note: All work shown in this repository is for informational use only. Regarding the images or logos, we are not associated with any of those companies. This repository only aims to provide general information for educational purposes via those images or logos.
 
