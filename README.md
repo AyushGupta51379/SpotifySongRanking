@@ -1,5 +1,5 @@
 # Spotify Song Ranking and Audio Features Analysis
-Worldwide Spotify Song Ranking Analysis and Spotify Songs Audio Features Analysis (by Ayush Gupta and his group)
+Worldwide Spotify Song Ranking Analysis and Spotify Songs Audio Features Analysis (by Ayush Gupta and his group), for research on "What makes a song popular?".
 
 # Potential Uses for
 
